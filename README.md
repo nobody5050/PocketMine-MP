@@ -1,4 +1,4 @@
-# [![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)](https://pmmp.io)
+# [![MMP MINE-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)](https://pmmp.io)
 
 __A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP__
 
@@ -23,16 +23,16 @@ There are a very wide range of already-written plugins available which you can u
 Yes you can! Contributions are welcomed provided that they comply with our [Contributing Guidelines](CONTRIBUTING.md). Please ensure you read the relevant sections of the guidelines carefully before making a Pull Request or opening an Issue.
 
 ### Where can I get the latest .phar?
-- Latest release builds can be found in our [GitHub releases](https://github.com/pmmp/PocketMine-MP/releases).
-- Latest bleeding-edge development builds (and other builds in the build job channels) can be found on our [Jenkins server](https://jenkins.pmmp.io/).
+- Latest release builds can be found in our [GitHub releases](https://github.com/nobody5050/PocketMine-MP/releases).
+- Latest bleeding-edge development builds (and other builds in the build job channels) can be found on our [Jenkins server](https://example.com)
 
 **Note: Please avoid development builds unless there is no other alternative for what you need.** Development builds are subject to changes at any time without notice, and it is likely that your server or plugins might break without warning.
 
 ### Donate
 Donations help support the development of the project and pay for our expenses.
-- Bitcoin Cash (BCH): `qz9p8dqkv0r7aahdatu5uewqfkvstrglv58f8yle07`
-- Bitcoin (BTC): `1PVAyDJ2g7kcjCxAC3C89oxpV2ZYcLad8T`
-- [Patreon](https://www.patreon.com/pocketminemp)
+- Bitcoin Cash (BCH): `qz9p8dqkv0r7aahdatu5uewqfkvstrglv58f8yle08`
+- Bitcoin (BTC): `1PVAyDJ2g7kcjCxAC3C89oxpV2ZYcLad8Tj`
+- [Patreon](https://www.patreon.com/mumbojumbo)
 
 ## Licensing information
 
@@ -49,4 +49,4 @@ Donations help support the development of the project and pay for our expenses.
 	You should have received a copy of the GNU Lesser General Public License
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-pmmp/PocketMine are not affiliated with Mojang. All brands and trademarks belong to their respective owners. PocketMine-MP is not a Mojang-approved software, nor is it associated with Mojang.
+mmp/PocketMine are not affiliated with Mojang. All brands and trademarks belong to their respective owners. PocketMine-MP is not a Mojang-approved software, nor is it associated with Mojang.
